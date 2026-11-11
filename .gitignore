@@ -1,0 +1,17 @@
+# build output
+build/
+B2KShake.ofx.bundle/
+dist/B2KShake/B2KShake.ofx.bundle/
+*.zip
+*.obj
+*.exe
+*.exp
+*.lib
+*.pdb
+
+# fetched by build.bat
+openfx/
+
+# test renders
+test/*.ppm
+test/*.png
